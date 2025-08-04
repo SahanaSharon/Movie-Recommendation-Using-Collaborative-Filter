@@ -27,7 +27,7 @@ Contains data on movies, user ratings, and user IDs.
 Includes movies.csv, ratings.csv, and sometimes users.csv.
 
 
-🔍 Project Highlights
+ Project Highlights :
 
 1. Data Preprocessing
 
@@ -93,7 +93,7 @@ pip install pandas numpy scikit-learn scikit-surprise
 4. Modify user ID or movie ID in the prediction cell to get personalized recommendations.
 
 
-Future Enhancements
+Future Enhancements :
 
 Add hybrid filtering combining content-based and collaborative approaches.
 
@@ -103,5 +103,6 @@ Integrate user authentication and real-time rating collection.
 
 
 Author : Sahana Sharon
+
 
 Dataset Credits : MovieLens Dataset - GroupLens
