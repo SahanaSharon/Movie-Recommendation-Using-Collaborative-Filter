@@ -5,29 +5,11 @@ Objective :
 The objective of this project is to build a Movie Recommendation System using Collaborative Filtering techniques. The system suggests movies to users based on the preferences and ratings of similar users, using historical data.
 
 
-Tools & Technologies Used :
+Tools & Technologies Used : Python 3.x, Pandas,NumPy,Scikit-learn,Jupyter Notebook
 
-Python 3.x
+Dataset : MovieLens Dataset from GroupLens,Contains data on movies, user ratings, and user IDs,Includes movies.csv, ratings.csv, and sometimes users.csv.
 
-Pandas
-
-NumPy
-
-Scikit-learn
-
-Jupyter Notebook
-
-
-Dataset
-
-MovieLens Dataset from GroupLens
-
-Contains data on movies, user ratings, and user IDs.
-
-Includes movies.csv, ratings.csv, and sometimes users.csv.
-
-
- Project Highlights :
+Project Highlights :
 
 1. Data Preprocessing
 
@@ -95,14 +77,15 @@ pip install pandas numpy scikit-learn scikit-surprise
 
 Future Enhancements :
 
-Add hybrid filtering combining content-based and collaborative approaches.
+1.Add hybrid filtering combining content-based and collaborative approaches.
 
-Deploy the model as a web application using Flask or Streamlit.
+2.Deploy the model as a web application using Flask or Streamlit.
 
-Integrate user authentication and real-time rating collection.
+3.Integrate user authentication and real-time rating collection.
 
 
 Author : Sahana Sharon
 
 
 Dataset Credits : MovieLens Dataset - GroupLens
+
